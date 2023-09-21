@@ -10,3 +10,5 @@ XCode 14.2以降で、MacMicTest.xcodeprojを起動する。
 Runする。
 
 
+# コードの説明
+本で
